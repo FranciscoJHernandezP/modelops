@@ -1,4 +1,5 @@
-import numpy as np import os
+import numpy as np 
+import os
 # TensorFlow
 import tensorflow as tf
 print(tf.__version__)
